@@ -38,8 +38,8 @@ O trabalho apresenta a construção de uma base analítica de crédito, a defini
 | Item | Link |
 |---|---|
 | Repositório GitHub | https://github.com/andrerochadeoliveira/postech-tech-challenge-fase2-template |
-| Vídeo executivo (até 5 minutos) | [INSERIR LINK] |
-| Apresentação executiva | [INSERIR LINK] |
+| Vídeo executivo (até 5 minutos) | https://drive.google.com/file/d/1aWHAmRw9YIe_BusM_yFcRfPWUOX5XJYk/view?usp=drive_link |
+| Apresentação executiva | https://docs.google.com/presentation/d/13D0BmHzkg87UL5v3MlU_Me3kGqIp640g/edit?usp=drive_link&ouid=115733349195632889037&rtpof=true&sd=true |
 
 Os links devem estar acessíveis aos avaliadores e corresponder aos informados no documento de submissão.
 
