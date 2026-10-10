@@ -26,10 +26,10 @@ O trabalho apresenta a construção de uma base analítica de crédito, a defini
 | Nome completo | RM | E-mail |
 |---|---|---|
 | Eriscley Ferreira Mota | [INFORMAR RM] | Eriscley@gmail.com |
-| Andre Luis Dias Pinto | [INFORMAR RM] | andrelsds@yahoo.com.br |
+| Andre Luis Dias Pinto | rm377735 | andrelsds@yahoo.com.br |
 | Vitor Renato Michelucci Jose | rm377769 | vitor.michelucci@bb.com.br |
-| Andre Rocha de Oliveira | [INFORMAR RM] | andrerochadeoliveira@gmail.com |
-| Joao Victor Espindola Couto | [INFORMAR RM] | joao.couto@bb.com.br |
+| Andre Rocha de Oliveira | rm377736 | andrerochadeoliveira@gmail.com |
+| Joao Victor Espindola Couto | rm377800 | joao.couto@bb.com.br |
 
 ---
 
