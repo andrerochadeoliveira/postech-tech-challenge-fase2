@@ -25,7 +25,7 @@ O trabalho apresenta a construção de uma base analítica de crédito, a defini
 
 | Nome completo | RM | E-mail |
 |---|---|---|
-| Eriscley Ferreira Mota | [INFORMAR RM] | Eriscley@gmail.com |
+| Eriscley Ferreira Mota | rm377752 | Eriscley@gmail.com |
 | Andre Luis Dias Pinto | rm377735 | andrelsds@yahoo.com.br |
 | Vitor Renato Michelucci Jose | rm377769 | vitor.michelucci@bb.com.br |
 | Andre Rocha de Oliveira | rm377736 | andrerochadeoliveira@gmail.com |
